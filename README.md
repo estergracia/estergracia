@@ -18,7 +18,7 @@
 
 ## 📫 Connect with Me  
 - 📧 Email: [estergracia240@gmail.com]  
-- 🔗 LinkedIn: [linkedin.com/in/esther-2a2ooa](https://www.linkedin.com/in/esther-gracia-claudya-6b3a09280/).
+- 🔗 LinkedIn: [linkedin.com/in/esther-2a2ooa] (https://www.linkedin.com/in/esther-gracia-claudya-6b3a09280/).
 
 ---
 
