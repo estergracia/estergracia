@@ -1,25 +1,20 @@
-# 👋 Hi, I'm Esther Gracia Claudya!
+# 👋 Hi, I'm Esther Gracia Claudya
 
-🎓 I'm a Computer Science student passionate about **Data Science, Web Development, and UI/UX Design**.  
-🚀 Currently, I'm learning how to build **data-driven applications**, **modern web experiences**, and **intuitive user interfaces**.  
-💡 I enjoy working on **machine learning models**, **interactive dashboards**, and **user-centered design projects**.  
+🎓 Computer Science Graduate | UI/UX Designer & Frontend Developer
 
-## 🔧 Technologies & Tools  
-- 🐍 Python | SQL  
-- 📊 Pandas | NumPy | Matplotlib | Seaborn | Streamlit  
-- 🌐 HTML | CSS | JavaScript 
-- 🎨 Figma | Canva  
-- 🛠️ Git | GitHub | VS Code | Jupyter Notebook  
+I'm a designer at heart with a Computer Science background. I enjoy creating intuitive user interfaces, exploring web technologies, and turning ideas into meaningful digital experiences.
 
-## 📌 What I'm Currently Learning  
-- 🤖 Machine Learning & Deep Learning  
-- 📊 Data Visualization & Analytics  
-- 🎨 UI/UX Principles & Design Thinking  
+### 🛠️ Tech & Design
+- **Design:** Figma, Canva
+- **Frontend:** HTML, CSS, JavaScript, React.js, Tailwind CSS
+- **Backend & Data:** Python, SQL, Firebase
+- **Tools:** Git, GitHub, VS Code
 
-## 📫 Connect with Me  
-- 📧 Email: [estergracia240@gmail.com]  
-- 🔗 LinkedIn: [linkedin.com/in/esther-2a2ooa] (https://www.linkedin.com/in/esther-gracia-claudya-6b3a09280/).
+### 🌱 Currently Exploring
+UI/UX Design, frontend development, and creative ways to make digital experiences better.
 
----
+### 📫 Let's Connect
+- **Email:** esterstdio@gmail.com
+- **LinkedIn:** [Esther Gracia Claudya](https://www.linkedin.com/in/esther-gracia-claudya-6b3a09280/)
 
-💡 **"Design with purpose, build with passion!"** 🚀
+💡 *Design with purpose, build with passion.*
